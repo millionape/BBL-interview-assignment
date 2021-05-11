@@ -1,6 +1,6 @@
-# assignment1
+# BBL Assignment
 
-> A Vue.js project
+> For BBL interview only
 
 ## Build Setup
 
@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 
-## Running procedure
+## Dockerize procedure
 
 ``` bash
 # build the app
