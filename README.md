@@ -22,8 +22,8 @@ npm run build --report
 
 ``` bash
 # build the app
-docker build -t vuejs-cookbook/dockerize-vuejs-app .
+docker build -t vuejs/dockerize-vuejs-app .
 
 # serve at localhost:8080
-docker run -it -p 8080:8080 --rm --name dockerize-vuejs-app-1 vuejs-cookbook/dockerize-vuejs-app
+docker run -it -p 8080:8080 --rm --name dockerize-vuejs-app-1 vuejs/dockerize-vuejs-app
 ```
